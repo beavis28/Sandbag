@@ -1,3 +1,3 @@
 this is first test.
 Now studying git
-And that is third line.
+This is coming from Windows
