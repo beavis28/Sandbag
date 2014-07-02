@@ -1,3 +1,0 @@
-this is first test.
-Now studying git
-This is coming from Windows
