@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-
+"machigai"
 
 int main(void)
 {
